@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:fceee9,50:f4cccc&height=300&section=header&text=Welcome&fontColor=667b68&fontSize=90)
 
 <!--
 **IreneZhou0129/IreneZhou0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
